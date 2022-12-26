@@ -1,30 +1,100 @@
-<h1 align="center">Hi 👋, I'm shital suman</h1>
-<h3 align="center">A passionate Fullstack Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="100"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shitalkumar87&label=Profile%20views&color=0e75b6&style=flat" alt="shitalkumar87" /> </p>
-    - 🔭 I’m currently working on **Naukri clone**
+<div id="badges" align="center">
+  <a href=" https://www.linkedin.com/in/shital-smn-a89361233">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/vivekbtu">
+    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://twitter.com/rock_shital?t=kRVrRQahKvZh7SNXmiRvvg&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  ![Profile View](https://komarev.com/ghpvc/?username=Shitalkumar87&color=orange&style=flat)
+</div>
 
-- 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://shitalkumar87.github.io/](https://shitalkumar87.github.io/)
+<h1 align="center">
+  Hi
+  <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Vivek 
+</h1>
 
-- 📫 How to reach me **shitalsmn@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shitalkumar87" alt="shitalkumar87" /></a> </p>
+<h3 align="left", style="margin-bottom:10px">About me</h3>
 
+<img align="right" alt="coding image" width="45%" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+
+
+
+---
+
+### :woman_technologist: About Me :
+
+- 👋 Hi, I’m Vivek Gupta and a passionate Full-Stack Web Developer
+
+- 👨‍💻 Most of my projects are available on [My Portfolio](https://shitalkumar87.github.io/).
  
-<p align="left">
-<a href="https://twitter.com/@rock_shital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rock_shital" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shitalsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shitalsuman" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning **Full-Stack Web Development**
+ 
+- 💬 Ping me about Web Development, Lets grow together.
+ 
+- 📫 How to reach me **shitalsmn@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 📙 Check out Vivek's Web Resume [Here](https://drive.google.com/file/d/1Krl9RI-kV_gWo3uKK7ARWQBR1jy8wnal/view?usp=share_link).
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shitalkumar87&show_icons=true&locale=en&layout=compact" alt="shitalkumar87" /></p>
+### :hammer_and_wrench: Languages and Tools :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shitalkumar87&show_icons=true&locale=en" alt="shitalkumar87" /></p>
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-%23000000.svg?style=for-the-badge&logo=mongoose&logoColor=%2361DAFB)
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shitalkumar87&" alt="shitalkumar87" /></p>
+
+---
+### : My Trophy :
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=shitalkumar87&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### :fire: My Stats :
+
+<b>My GitHub Stats</b>
+
+<!-- GIT HUB STATS  -->
+
+<a href="http://www.github.com/shitalkumar87"><img src="https://github-readme-stats.vercel.app/api?username=shitalkumar87&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shitalkumar87's GitHub stats" /></a>
+
+<a href="http://www.github.com/shitalkumar87"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekbtu&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!-- <a href="http://www.github.com/shitalkumar87"><img src="https://activity-graph.herokuapp.com/graph?username=shitalkumar87&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<a href="http://www.github.com/monumarquis">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shitalkumar87&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
+</a>
+
+<a href="https://github.com/shitalkumar87" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitalkumar87&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+---
+
+<!-- ### :writing_hand: Blog Posts : -->
+
+<!---
+shitalkumar87/shitalkumar87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
