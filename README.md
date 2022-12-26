@@ -34,7 +34,7 @@
 
 ### :woman_technologist: About Me :
 
-- 👋 Hi, I’m Vivek Gupta and a passionate Full-Stack Web Developer
+- 👋 Hi, I’m  shital suman and a passionate Full-Stack Web Developer
 
 - 👨‍💻 Most of my projects are available on [My Portfolio](https://shitalkumar87.github.io/).
  
@@ -44,7 +44,7 @@
  
 - 📫 How to reach me **shitalsmn@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
 
-- 📙 Check out Vivek's Web Resume [Here](https://drive.google.com/file/d/1Krl9RI-kV_gWo3uKK7ARWQBR1jy8wnal/view?usp=share_link).
+- 📙 Check out shital's Web Resume [Here](https://drive.google.com/file/d/1Krl9RI-kV_gWo3uKK7ARWQBR1jy8wnal/view?usp=share_link).
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
