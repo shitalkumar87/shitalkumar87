@@ -6,7 +6,7 @@
   <a href=" https://www.linkedin.com/in/shital-smn-a89361233">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/vivekbtu">
+  <a href="https://github.com/shitalkumar87">
     <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://twitter.com/rock_shital?t=kRVrRQahKvZh7SNXmiRvvg&s=09">
