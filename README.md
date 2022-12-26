@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="100"/>
+  <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
