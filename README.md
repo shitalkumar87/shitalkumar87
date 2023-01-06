@@ -44,7 +44,7 @@
  
 - 📫 How to reach me **shitalsmn@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
 
-- 📙 Check out shital's Web Resume [Here](https://drive.google.com/file/d/1Krl9RI-kV_gWo3uKK7ARWQBR1jy8wnal/view?usp=share_link).
+- 📙 Check out shital's Web Resume [Here](https://drive.google.com/file/d/1qlSIxOQt2uWXnRqGiv15nhhr5tuWkP-H/view?usp=share_link).
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
