@@ -24,9 +24,8 @@
 </h1>
 
 
-### :woman_technologist: About Me :
-I am Shital suman
-A web developer with a vast array of knowledge in many different front end and backend languages, responsive frameworks, databases, and best code practices. Look forward to using my skills for gaining more experience.
+## :sassy_man: About Me :
+  I'm a graduate of Physical Science from Sambalpur University Odisha. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development and working on my Data Structures and Algorithms.
 
 <img align="right" alt="coding image" width="45%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
@@ -34,7 +33,7 @@ A web developer with a vast array of knowledge in many different front end and b
 
 ---
 
-### :woman_technologist: About Me :
+ 
 
 - 👋 Hi, I’m  shital suman and a passionate Full-Stack Web Developer
 
