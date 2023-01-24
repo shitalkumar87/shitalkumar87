@@ -25,6 +25,8 @@
 
 
 <h3 align="left", style="margin-bottom:10px">About me</h3>
+I am Shital suman
+A web developer with a vast array of knowledge in many different front end and backend languages, responsive frameworks, databases, and best code practices. Look forward to using my skills for gaining more experience.
 
 <img align="right" alt="coding image" width="45%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
