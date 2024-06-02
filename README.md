@@ -25,7 +25,7 @@
 
 
 ## :sassy_man: About Me :
-  I'm a graduate of Bachelor In Commerce  from LalitNarayan Mithila University Darbhnaga. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development and working on my Data Structures and Algorithms.
+ As a Bachelor of Commerce graduate from Lalit Narayan Mithila University, Darbhanga, I am a passionate learner with a strong commitment to continuous growth across various technologies and domains. I have a keen interest in exploring new technologies and utilizing them to address real-life challenges. Currently, I am focused on Web Development and enhancing my skills in Data Structures and Algorithms. Additionally, I take great pride in guiding and mentoring newcomers in the field, sharing my knowledge and experiences to help them succeed.
 
 <img align="right" alt="coding image" width="45%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
